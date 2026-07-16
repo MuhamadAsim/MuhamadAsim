@@ -38,40 +38,6 @@ const muhammadAsim = {
 
 <br/>
 
-## 🚀 Featured Projects
-
-### 🧠 Personal Assistant
-
-Personal AI assistant that combines coding, knowledge management, and automation into a single workspace.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhamadAsim&repo=personal-assistant&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Personal Assistant repo card"/>
-</div>
-
-| Layer      | Technology                          |
-|------------|--------------------------------------|
-| Frontend   | React.js / Web UI                   |
-| Backend    | Node.js                              |
-| AI Layer   | LLM Integration, Automation Workflows|
-
-🔗 **Code:** [github.com/MuhamadAsim/personal-assistant](https://github.com/MuhamadAsim/personal-assistant)
-
-<br/>
-
-### 🛒 BidaWrap
-
-A full-stack marketplace and SaaS platform that enables businesses to manage products, customers, and online sales.
-
-| Layer      | Technology              |
-|------------|--------------------------|
-| Frontend   | React.js, Tailwind CSS   |
-| Backend    | Node.js, Express.js      |
-| Realtime   | WebSockets                |
-
-🔗 **Live:** [bidawrap.com](https://bidawrap.com)
-> *Source code is in a private repository.*
-
-<br/>
 
 ## 🛠️ Tech Stack
 
