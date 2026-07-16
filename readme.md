@@ -18,7 +18,7 @@
 ## 👤 Who I Am
 
 ```typescript
-const muhammadAsim = {
+const MuhammadAsim = {
   title: "Full Stack Developer",
   stack: {
     languages: ["JavaScript", "Python", "C++"],
@@ -29,8 +29,6 @@ const muhammadAsim = {
     ai_ml: ["Hugging Face", "Roboflow", "OpenRouter", "Google Colab", "Ollama"],
     tools: ["Git", "GitHub", "Postman", "Selenium"],
   },
-  launchedProjects: ["BidaWrap", "Personal Assistant"],
-  certifications: [],
   status: "Building production-grade AI + full-stack applications",
   openTo: ["Freelance projects", "Collaboration", "Interesting problems"],
 };
